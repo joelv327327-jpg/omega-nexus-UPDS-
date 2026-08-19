@@ -23,3 +23,7 @@ La plataforma contará con herramientas de búsqueda, filtros, organización por
 - Joseth Jonathan Huayhua Padilla
 - Joel Vera Olguin
 - Bekan Deivid Zambrana Suarez
+
+## FIGMA
+
+https://www.figma.com/design/HR6w6yayZcQnJaLfbRJvJe/modern-gaming-website--Community-?node-id=112-6&t=mCCkn4CZSjDtTHDZ-1
