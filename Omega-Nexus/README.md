@@ -1,6 +1,6 @@
-# 🎮 Omega Nexus
+# Omega Nexus
 
-## Descripción del proyecto
+Descripción del proyecto
 
 **Omega Nexus** es una página web interactiva desarrollada como proyecto integrador de la materia **Diseño Web II**.
 
@@ -14,7 +14,7 @@ Además, tendrá un diseño **responsive**, permitiendo su correcta visualizaci�
 
 ---
 
-# 🚀 Funcionalidades principales
+Funcionalidades principales
 
 Omega Nexus contará con las siguientes funcionalidades:
 
@@ -40,7 +40,7 @@ Omega Nexus contará con las siguientes funcionalidades:
 
 ---
 
-# 🏗️ Arquitectura del proyecto
+Arquitectura del proyecto
 
 ```text
                          OMEGA NEXUS
@@ -73,7 +73,7 @@ Omega Nexus contará con las siguientes funcionalidades:
 
 ---
 
-# 🧩 Estructura de la página
+Estructura de la página
 
 ```text
 OMEGA NEXUS
@@ -126,9 +126,9 @@ OMEGA NEXUS
 
 ---
 
-# 🔌 API utilizada
+API utilizada
 
-## RAWG Video Games Database API
+RAWG Video Games Database API
 
 Omega Nexus utilizará **RAWG API** como fuente principal de información sobre videojuegos.
 
@@ -156,7 +156,7 @@ La información obtenida será procesada mediante **JavaScript, Fetch API, AJAX 
 
 ---
 
-# 🔥 Firebase
+Firebase
 
 Omega Nexus utilizará **Firebase**, específicamente **Cloud Firestore**, como complemento de RAWG API.
 
@@ -164,13 +164,13 @@ Firebase será utilizado para almacenar información generada directamente dentr
 
 Principalmente permitirá gestionar:
 
-### ❤️ Favoritos
+Favoritos
 
 Los visitantes podrán marcar determinados videojuegos como favoritos.
 
 La información necesaria del videojuego podrá almacenarse para posteriormente mostrar una sección dedicada a los juegos seleccionados.
 
-### 💬 Comentarios
+Comentarios
 
 Cada videojuego podrá contar con una sección en la que se puedan registrar y mostrar comentarios relacionados con ese título.
 
@@ -178,7 +178,7 @@ Los comentarios podrán almacenarse mediante **Cloud Firestore** y mostrarse din
 
 ---
 
-# 💻 Tecnologías utilizadas
+Tecnologías utilizadas
 
 El proyecto utilizará las siguientes tecnologías:
 
@@ -198,8 +198,7 @@ El proyecto utilizará las siguientes tecnologías:
 * **Figma**
 
 ---
-
-# 🔄 Funcionamiento general
+Funcionamiento general
 
 El funcionamiento principal de Omega Nexus seguirá el siguiente flujo:
 
@@ -234,13 +233,13 @@ Favoritos   Comentarios
      Firebase
    Cloud Firestore
 
-# 🎯 Objetivo general
+Objetivo general
 
 Desarrollar una plataforma web interactiva y responsive dedicada a videojuegos, utilizando tecnologías de desarrollo web frontend y servicios externos, que permita consultar información proveniente de una API pública, realizar búsquedas, aplicar filtros, visualizar información detallada y utilizar funcionalidades adicionales como favoritos y comentarios.
 
 ---
 
-# 🎯 Objetivos específicos
+Objetivos específicos
 
 * Diseñar una interfaz moderna y responsive utilizando HTML5, CSS3 y Bootstrap.
 * Consumir información de videojuegos mediante RAWG API.
@@ -259,7 +258,7 @@ Desarrollar una plataforma web interactiva y responsive dedicada a videojuegos, 
 
 ---
 
-# 👨‍💻 Integrantes
+Integrantes
 
 * **Joseth Jonathan Huayhua Padilla**
 * **Joel Vera Olguin**
@@ -267,7 +266,7 @@ Desarrollar una plataforma web interactiva y responsive dedicada a videojuegos, 
 
 ---
 
-# 🎨 FIGMA
+FIGMA
 
 El diseño visual y prototipo de Omega Nexus se encuentra desarrollado en Figma:
 
@@ -275,7 +274,7 @@ https://www.figma.com/design/cEdywzMIACv08lQSGyChqQ/omeganexus?node-id=0-1&t=BUU
 
 ---
 
-# 🔎 Referencia de páginas web investigadas
+Referencia de páginas web investigadas
 
 ## IGDB — Internet Game Database
 
@@ -339,11 +338,3 @@ Además de servir como referencia visual y funcional, **RAWG API será utilizada
 **Referencia:** rawg.io
 
 ---
-
-# 📌 Concepto final del proyecto
-
-**Omega Nexus** será una plataforma web enfocada en la exploración de videojuegos, combinando un diseño moderno con información obtenida dinámicamente mediante **RAWG API**.
-
-La plataforma integrará funcionalidades de búsqueda, filtros, categorías, detalles de videojuegos, favoritos y comentarios, utilizando **JavaScript, AJAX, JSON, LocalStorage y Firebase Cloud Firestore**.
-
-El proyecto busca demostrar los conocimientos adquiridos en **Diseño Web II**, aplicando tanto conceptos de diseño responsive como consumo de APIs, manipulación del DOM, programación asíncrona, almacenamiento de información y organización profesional de un proyecto web.
